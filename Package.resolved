@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "openssl-apple",
+        "repositoryURL": "https://github.com/passepartoutvpn/openssl-apple",
+        "state": {
+          "branch": null,
+          "revision": "cbbff97a99384a5415bb47c072c376066b78f65f",
+          "version": "1.1.11300"
+        }
+      },
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+        "state": {
+          "branch": null,
+          "revision": "2c039501d6eeb4d4cd4aec4a8d884ad28862e044",
+          "version": "1.9.5"
+        }
+      },
+      {
+        "package": "WireGuardKit",
+        "repositoryURL": "https://github.com/passepartoutvpn/wireguard-apple",
+        "state": {
+          "branch": null,
+          "revision": "b4f74b7bcba9004a1852e615298f9cbc68fb7f67",
+          "version": "1.0.16"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
